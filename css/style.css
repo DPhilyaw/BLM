@@ -118,7 +118,7 @@
 
 	strong, b
 	{
-		font-weight: 800;
+		font-weight: 500;
 		color: #000;
 	}
 	
@@ -855,13 +855,9 @@
 		
 			#main > section.four
 			{
-				background-color: #e8edec;
-			}
-						#main > section.two
-			{
 				background-color: #f5fafa;
 			}
-		
+			
 			#main > section.five
 			{
 				background-color: #ecf1f1;
@@ -869,7 +865,17 @@
 		
 			#main > section.six
 			{
-				background-color: #e8edec;
+				background-color: #f5fafa;
 			}
 			
+			#main > section.seven
+			{
+				background-color: #ecf1f1;
+			}
+
+			#main > section.eight
+			{
+				background-color: #f5fafa;
+			}
+
 			
